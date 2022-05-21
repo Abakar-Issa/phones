@@ -1,2 +1,2 @@
 # phones
-site web de vente de téléphones
+site web de vente d'objets ( téléphones ) 
